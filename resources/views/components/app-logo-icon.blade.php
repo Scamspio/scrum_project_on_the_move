@@ -1,0 +1,1 @@
+<img src="{{ Vite::asset('resources/images/wotm-logo-no-circle.webp') }}" class="rounded-[15px]">

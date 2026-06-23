@@ -45,6 +45,8 @@ The following PHP extensions need to enabled:
 - Session
 - Tokenizer
 - XML
+- SQLite3
+- pdo_SQLite
 
 Once all requirements are met, run the following commands
 

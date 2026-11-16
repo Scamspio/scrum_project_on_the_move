@@ -4,7 +4,7 @@ A basic Transport Management System aimed at a (fictional) business doing delive
 
 This project was Created by:  
 [Tim van Loo](https://github.com/TimboooHSS) (Frontend)  
-[Maurits Meijerhof](https://github.com/EnvyTheSky) (Frontend)  
+[Maurits Meijerhof](https://github.com/EnvyTheSky) (Frontend: Form functionality and styling. Making the necessary pages.)  
 [Sander Steensma](https://github.com/avmsteensma) (Backend)  
 
 
